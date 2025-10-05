@@ -14,7 +14,7 @@ O **Projeto-UNES** é um pequeno projeto didático voltado ao estudo e prática 
 ## 📂 Estrutura do Projeto
 
 ```bash
-PortifolioProjeto-UNES/
+Projeto-UNES/
 ├── index.html        # Página principal do site
 ├── quem-somos.html   # Página “Quem Somos”
 ├── contato.html      # Formulário de contato
